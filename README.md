@@ -4,6 +4,7 @@
   * As a replacement, ROHM recommends BD9C301     
      * IC Datasheet: http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/switching_regulator/bd9c301fj-e.pdf
      * GitHub Repo for EVK: https://github.com/ROHMUSDC/BD9C301FJ-EVK-001
+	 
 ----
 ### Description: 
 * The BD9328EFJ is a synchronous step-down switching regulator with built-in two low-resistance N-Channel MOSFETs. 
