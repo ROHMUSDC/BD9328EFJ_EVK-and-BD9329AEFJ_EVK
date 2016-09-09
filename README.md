@@ -1,4 +1,4 @@
-# "BD9328EFJ_EVK" EVK and "BD9329AEFJ_EVK" Design Resource Repository
+# BD9328EFJ_EVK and BD9329AEFJ_EVK Design Resource Repository
 * Hardware Design Files and Documentation for the ROHM "BD9328EFJ_EVK" EVK and "BD9329AEFJ_EVK" EVK
 * **NOTE**: Please be aware that as of **January 2016**, the BD9328EFJ and the BD9329A are no longer recommended for new designs.
   * As a replacement, ROHM recommends BD9C301     
